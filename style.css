@@ -1,0 +1,190 @@
+.body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+     
+
+
+}
+.container{
+
+    display: flex;
+}
+
+.stayfocus1{
+
+    width: 50%;
+    margin: 50px 120px;
+     
+}
+.stayfocus1 p{
+
+    font-size: 20px;
+    text-align: justify;
+     
+}
+.stayfocus2{
+
+    width: 50%;
+    margin: 50px 120px;
+}
+.focuson{
+    font-size: 50px;
+    border-left: 5px solid;
+    border-image: linear-gradient( tomato, gray);
+    border-image-slice: 1;
+     
+     
+
+}
+.mission{
+    font-size: 50px;
+    color: burlywood;
+    
+
+ 
+
+}
+.person1{
+
+    width: 300px;
+     
+
+}
+
+.explore{
+
+ 
+    border-radius: 10px;
+    background-color:tomato;
+    color:white;
+    font-weight: 700px;
+    padding: 10px 50px;
+    text-decoration: none;
+    margin-top: 100px;
+ 
+ 
+}
+
+.mymission{
+    font-size: 50px;
+    text-align: center;
+
+}
+.year{
+
+ font-size: 50px;
+ color: burlywood;
+ text-align: center;
+
+}
+
+.missione{
+
+width: 30%;
+ 
+box-shadow: 10px 10px 40px #835443;
+border-radius: 15px;
+margin: 10px 25px;
+
+}
+
+.missintwo{
+    width: 30%;
+    
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 15px;
+    margin: 10px 25px;
+
+
+}
+
+.missionthree{
+
+    width: 30%;
+    box-shadow: 10px 10px 40px grey;
+     border-radius: 15px;
+     margin: 10px 25px;
+     
+           
+}
+
+.imgone{
+
+    width: 130px;
+    /* margin: 0px 200px; */
+    
+
+}
+
+.documentaionone{
+    width: 40%;
+    margin: 100px 150px;
+     
+
+}
+.documentaiontwo{
+    width: 60%;
+    margin: 100px 0px;
+   
+     
+
+}
+.documentaiontwo p{
+
+
+    font-size: 20px;
+    text-align: justify;
+}
+
+.four{
+
+    width: 350px;
+}
+
+.develop{
+
+    font-size: 40px;
+     
+    
+}
+
+
+.globalone{
+
+    width: 50%;
+    margin: 0px 150px;
+}
+
+.globalone p{
+
+    font-size: 20px;
+    text-align: justify;
+}
+
+.globaltwo{
+    width: 50%;
+    margin: 0px 0px;
+
+
+}
+
+.five{
+
+    width: 350px;
+}
+ footer{
+
+
+    height: 200px;
+    background-color: tomato;
+ }
+
+ footer p{
+
+    font-size: 40px;
+    text-align: center;
+    color: white;
+ }
+
+ 
