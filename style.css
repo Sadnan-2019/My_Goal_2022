@@ -33,6 +33,7 @@
     border-left: 5px solid;
     border-image: linear-gradient( tomato, gray);
     border-image-slice: 1;
+    padding-left: 10px;
      
      
 
@@ -79,13 +80,28 @@
 
 }
 
+.boxshadow{
+
+    font-size: 25px;
+    margin: 40px 10px;
+     
+}
+
+.boxtext{
+
+    font-size: 20px;
+    margin: 40px 10px;
+}
+
 .missione{
 
 width: 30%;
  
-box-shadow: 10px 10px 40px #835443;
+box-shadow: 10px 10px 40px gray;
 border-radius: 15px;
 margin: 10px 25px;
+padding-top: 15px;
+background-color: rgb(140, 148, 163);
 
 }
 
@@ -95,6 +111,9 @@ margin: 10px 25px;
     box-shadow: 10px 10px 40px grey;
     border-radius: 15px;
     margin: 10px 25px;
+    padding-top: 15px;
+    background-color: rgb(100, 237, 196);
+
 
 
 }
@@ -105,6 +124,9 @@ margin: 10px 25px;
     box-shadow: 10px 10px 40px grey;
      border-radius: 15px;
      margin: 10px 25px;
+     background-color: cornflowerblue;
+     
+
      
            
 }
@@ -112,10 +134,18 @@ margin: 10px 25px;
 .imgone{
 
     width: 130px;
+    display: flex;
+    margin: 0px 120px;
     /* margin: 0px 200px; */
+     
+    
+     
     
 
 }
+  
+    
+ 
 
 .documentaionone{
     width: 40%;
@@ -173,11 +203,44 @@ margin: 10px 25px;
 
     width: 350px;
 }
+
+ .contactus{
+     margin: 25px 150px;
+    width: 50%;
+    box-shadow: 10px 10px 40px grey;
+    background-color: rgb(140, 148, 163);
+    border-radius: 15px;
+
+
+ }
+ .contactus form{
+
+    margin: 20px 20px;
+    border-radius: 15px;
+ }
+ .contactus h1{
+
+    text-align: center;
+ }
+
+ .contactusone{
+    margin: 100px 0px;
+    width: 50%;
+
+
+    
+ }
+ .seven{
+    width: 350px;
+ 
+ }
  footer{
 
 
     height: 200px;
     background-color: tomato;
+     
+     
  }
 
  footer p{
@@ -185,6 +248,42 @@ margin: 10px 25px;
     font-size: 40px;
     text-align: center;
     color: white;
+    
+ }
+
+ footer span{
+
+    color: rgb(54, 39, 19);
+ }
+ .copy{
+
+    font-size: 20px;
+    text-align: center;
+    color: white;
+
+ }
+
+
+
+ .form-control{
+
+    width: 500px;
+    height: 50px;
+ }
+
+ #message{
+
+    height: 200px;
+    width: 500px;
+ }
+  
+ .fimg{
+
+    width: 40px;
+    height: 20px;
+    margin: 0px 10px;
+    text-align: center;
+    margin-bottom: 20px;
  }
 
  
